@@ -12,6 +12,7 @@
 <p align="center">
 - Open established pages ✔️
 <br>
+<br>
 <img src="./extension-dfpages/screenshots/screenshot.png" />
 </p>
 
