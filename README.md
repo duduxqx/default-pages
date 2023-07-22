@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./icon.png" width="140px" />
+  <img src="./extension-dfpages/icon.png" width="140px" />
 </p>
 
 <h1 align="center">Default Pages</h1>
@@ -12,7 +12,7 @@
 <p align="center">
 - Open established pages ✔️
 <br>
-<img src="./screenshots/screenshot.png" />
+<img src="./extension-dfpages/screenshots/screenshot.png" />
 </p>
 
 
