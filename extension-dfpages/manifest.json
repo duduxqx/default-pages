@@ -1,0 +1,16 @@
+{
+  "name": "dfpages",
+  "version": "1.0.0",
+  "description": "Open default pages that I always open",
+  "action":{
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "manifest_version": 3,
+  "author": "dudusanttos",
+  "icons": {
+    "48": "icon.png"
+  }
+}
