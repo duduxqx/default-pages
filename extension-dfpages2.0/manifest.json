@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Default-Pages",
+  "version": "2.0",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["tabs"],
+  "icons": {
+    "48": "icon.png"
+  }
+}
